@@ -2,11 +2,12 @@ Estructuras de control
 
 Estructuras de seleccion -> seleccionar que bloques de codigo se ejecutar. 
 if -> para decidir que parte del odigo se ejecuta dependendiendo de la salida de una sentencia logica -> true/false
-	si(condicion)
-	{
-		ejecuto este bloque
-	} sino {
-	
+	if (condicion){
+	ejecuto este bloque
+	}else if (condicion2){
+	si no entra el anterior y se cumple esta condicionejecuto este bloque
+	} else {
+	si no se cumple ninguna condicion anterior ejecuto este
 	}
 
 switch ->

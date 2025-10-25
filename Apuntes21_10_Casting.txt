@@ -20,7 +20,11 @@ PARSING
 cambios que no entran de forma "natural" dentro del tipo destino. Puede o no fallar
 string -> int. "hola" 
 string -> boolean 
-Integer.parseInt(str) Integer.parseInt(str)
+Integer.parseInt(str) 
+Double.parseDouble(str)
+Float.parseFloat()
+Boolean.parseBoolean()
+Long.parseLong()
 
 int->string
 double->string

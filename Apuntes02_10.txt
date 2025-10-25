@@ -1,13 +1,13 @@
 Dar conjunto de instrucciones para poder llegar a un objetivo -> para que las ejecute una maquina
 
 0/1 -> lenguaje bajo nivel -> codigo maquina -> lenguaje ensamblador
-	-> lenguaje "natural" -> compilador -> J V M -> codigo maquina -> ejecutat
+	-> lenguaje "natural" -> compilador -> J V M -> codigo maquina -> ejecutar
 
 
 
 ALGORITMO -> conjunto de pasos estructurados que tienen una entrada, un proceso y una salida
 INPUTS -> aceite, huevo, sarten
-	PROCESO -> cada uno de los pasos qie me permiten llegar a un objetivo
+	PROCESO -> cada uno de los pasos que me permiten llegar a un objetivo
 OUTPUT -> huevo frito
 
 PROGRAMAR ES HACER n ALGORITMOS -> DIVIDE Y VENCERAS
@@ -41,13 +41,14 @@ Maven / Gradle
 
 ELEMENTOS PRINCIPALES
 
-1 CLASES -> estructura basica de la programacion. Donde escribimos nuestros codigos. Cuando tratemos POO una clase es el molde de un objeto
+1 CLASES -> estructura basica de la programacion. Donde escribimos nuestros codigos.
+			Cuando tratemos POO(Programacion orientada a objetos) una clase es el molde de un objeto
 			El nombre de la clase va la primera en mayusculas, sin espacios
 			Los nombre son representativos -> CLEAN CODE
 			El nombre de las clases no puede ser una palabra reservada
 			El nombre de la clase coincide con el nombre del fichero .java
 
-2 METODOS -> definen funcionalidades. Tienen argumentos, tienen una cosa que se llama retorno, tienen una 				coas que se llama cuerpo
+2 METODOS -> definen funcionalidades. Tienen argumentos, tienen una cosa que se llama retorno, tienen una cosa que se llama cuerpo
 			El nombre del metodo se escribe en minuscula. minusculaPalabra
 			El nombre de las clases no puede ser una palabra reservada
 			Los nombre son representativos -> CLEAN CODE
