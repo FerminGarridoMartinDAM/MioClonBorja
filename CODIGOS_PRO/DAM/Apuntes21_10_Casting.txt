@@ -18,18 +18,18 @@ int -> float
 
 PARSING
 cambios que no entran de forma "natural" dentro del tipo destino. Puede o no fallar
-String -> int. "hola" 
-String -> boolean 
+string -> int. "hola" 
+string -> boolean 
 Integer.parseInt(str) 
 Double.parseDouble(str)
 Float.parseFloat()
 Boolean.parseBoolean()
 Long.parseLong()
 
-int->String
-double->String
-boolean->String
-char->String
+int->string
+double->string
+boolean->string
+char->string
 
 String.valueOf()
 
