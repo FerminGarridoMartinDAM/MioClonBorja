@@ -44,4 +44,7 @@ public class SentenciaIF {
         }
         System.out.println(resultadoExamen);
     }
+
+
+
 }
