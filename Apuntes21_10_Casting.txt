@@ -31,6 +31,6 @@ double->String
 boolean->String
 char->String
 
-String.valueOf()
+String.valueOf(int,double,boolean,char)
 
 
